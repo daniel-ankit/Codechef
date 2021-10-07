@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-    int T;
-    cin >> T;
-    while (T--)
+    int Test;
+    cin >> Test;
+    while (Test--)
     {
         int N;
         cin >> N;
